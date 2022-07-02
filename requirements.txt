@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.1
+lxml==4.9.1
+urllib3==1.26.9
+psycopg2-binary==2.9.3
